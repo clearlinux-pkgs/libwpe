@@ -3,6 +3,7 @@ libwpe-1.0.so.1:wpe_backend_get_micro_version
 libwpe-1.0.so.1:wpe_backend_get_minor_version
 libwpe-1.0.so.1:wpe_gamepad_create
 libwpe-1.0.so.1:wpe_gamepad_destroy
+libwpe-1.0.so.1:wpe_gamepad_dispatch_analog_button_changed
 libwpe-1.0.so.1:wpe_gamepad_dispatch_axis_changed
 libwpe-1.0.so.1:wpe_gamepad_dispatch_button_changed
 libwpe-1.0.so.1:wpe_gamepad_get_id
